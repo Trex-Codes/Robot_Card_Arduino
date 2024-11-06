@@ -12,3 +12,7 @@ Este proyecto es un control remoto básico para un robot utilizando Arduino, en 
 * 2 Port 18650 Battery Holder
 * 2WD Car Robot chassis Kit
 * Switch
+
+#### Connections with the Arduino and devices
+
+![Model 0.1](https://github.com/Trex-Codes/Robot_Card_Arduino/blob/master/Images/Proyecto_Car%20Arduino_Assembly.png?raw=true)
