@@ -16,3 +16,8 @@ Este proyecto es un control remoto básico para un robot utilizando Arduino, en 
 #### Connections with the Arduino and devices
 
 ![Model 0.1](https://github.com/Trex-Codes/Robot_Card_Arduino/blob/master/Images/Proyecto_Car%20Arduino_Assembly.png?raw=true)
+
+
+#### Result of the diagram
+
+![Model 0.2](https://github.com/Trex-Codes/Robot_Card_Arduino/blob/master/Images/Robot_Ended.jpg?raw=true)
