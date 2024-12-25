@@ -1,4 +1,4 @@
-# Robot_Card_Arduino
+# Robot_Car_Arduino
 
 Este proyecto es un control remoto básico para un robot utilizando Arduino, en el que se manejan dos motores (uno para cada lado del robot) y un LED. La comunicación se realiza a través de la interfaz serie, permitiendo enviar comandos desde un dispositivo (por ejemplo, una PC) al Arduino para controlar el movimiento del robot y el estado del LED.
 
